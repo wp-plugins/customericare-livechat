@@ -1,0 +1,77 @@
+.cic-section {
+	font-family: "Open Sans",sans-serif;
+
+}
+
+.cic-section .updated {
+	display: none;
+	background-color: rgba(122,208,58,0.3);
+	font-weight: bold;
+}
+
+.cic-logo img {
+	padding: 15px 0;
+}
+
+.cic-content {
+
+	background: white;
+	width: 96%;
+	border: 1px solid #DBDBDB;
+	padding: 10px;
+	border-radius: 5px;
+	margin-bottom: 15px;
+}
+
+.cic-content h3 {
+	font-size: 14px;
+	padding: 8px 12px 8px 2px;
+	margin: 0;
+	line-height: 1.4;
+}
+
+.cic-content label {
+	font-weight: bold;
+	cursor: auto;
+}
+
+.cic-content input {
+	font-size: 16px;
+	height: 17px;
+	background-color: #F2F2F2;
+	border: 1px solid #DFDFDF;
+	border-radius: 4px;
+	margin-bottom: 15px;
+	padding: 10px 1.0%;
+	line-height: normal;
+	box-sizing: content-box;
+		-webkit-box-sizing: content-box;
+		-ms-box-sizing: content-box;
+		-moz-box-sizing: content-box;
+		-o-box-sizing: content-box;
+		-moz-box-shadow: none;
+		-webkit-box-shadow: none;
+	box-shadow: none;
+}
+
+.cic-content input.cic-apikey {
+	width: 330px;
+}
+
+.cic-content h3 {
+	cursor: pointer;
+}
+
+#cic-create-licence-form, #cic-add-plugin-form {
+	display: none;
+}
+
+.expand_form {
+	margin': '0 0 10px 0px';
+	border-bottom: 1px solid #DBDBDB;
+}
+
+div.error, div.updated {
+	margin: 5px 15px 15px 0;
+	width: 95%;
+}
