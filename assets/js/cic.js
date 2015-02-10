@@ -76,12 +76,14 @@ $(document).ready(function() {
 		var cic_apikey		= $('input[name="cic-apikey"]').val();
 		var cic_api_email	= $('input[name="cic-api-email"]').val();
 
+		/*
 		if(cic_apikey.length < 1)
 		{
 			Cic.alert({text: 'Apikey it\'s empty'});
 			return false;
 		}
-
+		*/
+		
 		$.ajax({
 			url: Cic.server_url+'/ajax/get-apikey-from-admin-email',
 			type: "POST",

@@ -61,7 +61,18 @@ class CicChatAdmin
      */
     public function plugin_version()
     {
-    	$plugin = get_plugin_data( plugin_dir_path( __FILE__ ).'../customericare.php', true, true );
+		if ( function_exists( 'get_plugin_data' ) ) {
+			$plugin = get_plugin_data( plugin_dir_path( __FILE__ ).'../customericare.php', true, true );
+		} else
+		{
+			if (!function_exists('get_plugins'))
+			{
+				require_once(ABSPATH.'wp-admin/includes/plugin.php');
+			}
+			$plugin_path 		= get_plugins('/'.plugin_basename(dirname(__FILE__).'/..'));
+			$plugin['Version'] 	= $plugin_path['customericare.php']['Version'];
+		}
+		
     return $plugin['Version'];
     }
 

@@ -32,6 +32,11 @@ Need more information? http://www.customericare.com/livechat
 = 1.0.0 =
 * First plugin version
 
+= 1.0.1 =
+* Fix for Wordpress 4.x in admin panel
+* Fix in install plugin when licence is empty
+
+
 == Frequently Asked Questions ==
 
 

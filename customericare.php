@@ -5,7 +5,7 @@ Plugin URI: http://customericare.com/knowledgebase/live-chat-wordpress/
 Description: Live chat software
 Author: CustomerICare
 Author URI: http://customericare.com
-Version: 1.0.0
+Version: 1.0.1
 */
 global $wp_version;
 
