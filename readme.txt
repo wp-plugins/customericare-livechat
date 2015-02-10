@@ -13,6 +13,9 @@ The plugin adds a beautiful live chat box that allows text, audio and video, sen
 
 Sign up now on http://www.customericare.com/signup
 Need more information? http://www.customericare.com/livechat
+
+[youtube https://www.youtube.com/watch?v=xNxQAWJy2-w]
+
 == Installation ==
 1. Go to your /wp-admin
 2. Click Plugins, Add New
@@ -44,19 +47,42 @@ OR
 
 == Frequently Asked Questions ==
 
+= How do I start? = 
 
-= Why use live video chat? =
+After you install the plugin and create an account you simply log on to app.customericare.com. Then you can monitor your website’s visitors and chat with them!
 
-Live chat applications for e-commerce and customer support use cases have been around for a couple of years, although video chat as a service channel has yet to take its rightful spot in the online services arena (says Mashable and we agree). Giving an opportunity for high value sales in industries like automotive or jewelry, live video chat can and will enhance online customer experiences with product presentation and service reliability.
+= Is it free? =
 
-= How is CustomerICare different than =
+Yes it is. You can also use premium features if you’re a power user!
 
-If you read up on Wikipedia, live chat in general is a term used for live support software to instantly provide online assistance to users of a website. While live chat is mainly used for text chats, our software goes a mile further and includes a multichannel chat for text, audio and video.
+= How many agents can I have? = 
 
-= Advantages of CustomerICare live chat =
+You can add as many agents as you want.
 
-The major advantage of live video chat, at least the chat software from CustomerICare, is that it comes bundled with popular live chat features for businesses, that include invitations which pop-up the chat window based on pre-defined rules, real-time website analytics (so it’s like Google Analytics, only without the limits and caveats you can click on people and engage customers via live chat or live video chat), a capability to customize the chat box and a few more. See the Pricing page for details of chat with us!
+= Can I change the color of the chat box? = 
 
-= Expensive, cheap or free chat? What’s best? =
+Sure you can. Log on to the Settings in your app.customericare.com and choose colors that fit your wordpress website.
 
-Given the current market you can find reliable live chat solutions for every wallet size, although it can be a little disappointing if you don’t get a decent onboarding process, lack of customer care and not frequent issue resolution. We provide a free option for companies that want to test live chat. When happy they can move to a standard live chat in the cloud type of plan with monthly recurring rates or go for a full on enterprise level live chat implementation that sits within their own server farm.
+= Do I have to use programming to install this live chat plugin? = 
+
+Absolutely not. All it takes is a few clicks in the plugin menu.
+
+= Can I use it on all my Wordpress pages? = 
+
+Yes! Just install the plugin on both of them and use the same account. It will allow you to monitor and chat with visitors from both websites. 
+
+= Can I use my picture or change the logo? = 
+
+You can do that. It’s a simple upload in the CustomerICare app.
+
+= Does customericare live chat keep chat history? = 
+
+Yes, chat history is kept
+
+= What happens when I’m not online? = 
+
+The chat box turns into a leave a message form where visitors can leave their e-mail and question.
+
+= Can I use CustomerICare live chat outside of Wordpress? = 
+
+Yes. You can simply add the code into another page. 
