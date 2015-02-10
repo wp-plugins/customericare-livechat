@@ -1,5 +1,5 @@
 === CustomerICare ===
-Contributors: CustomerICare
+Contributors: CustomerICare Livechat
 Tags: Chat, customer help, customer service, customer support, ecommerce, increase sales, live chat, live chat software, live support, livechat, online support, plugin, customericare
 Stable tag: 1.0.0
 Requires at least: 2.5
