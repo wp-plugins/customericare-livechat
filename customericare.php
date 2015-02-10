@@ -2,7 +2,7 @@
 /*
 Plugin Name: CustomerICare
 Plugin URI: http://customericare.com/knowledgebase/live-chat-wordpress/
-Description: Live chat software
+Description: Free live chat software designed for Wordpress. Quickly add a chat box to your website and start chatting with visitors. It's so easy!
 Author: CustomerICare
 Author URI: http://customericare.com
 Version: 1.0.1
