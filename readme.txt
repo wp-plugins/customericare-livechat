@@ -14,11 +14,17 @@ The plugin adds a beautiful live chat box that allows text, audio and video, sen
 Sign up now on http://www.customericare.com/signup
 Need more information? http://www.customericare.com/livechat
 == Installation ==
-
-1. Upload `customericare-livechat` directory to Wordpress plugins directory (`/wp-content/plugins/`)
+1. Upload customericare-livechat directory to WordPress plugins directory (/wp-content/plugins/)
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Click the 'Customericare' menu on the left.
 4. Follow the instructions.
+
+OR
+
+1. Go to your /wp-admin
+2. Click Plugins, Add New
+3. Search for CustomerICare
+4. Click Install now
 
 == Screenshots ==
 
