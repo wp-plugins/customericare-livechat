@@ -86,3 +86,7 @@ The chat box turns into a leave a message form where visitors can leave their e-
 = Can I use CustomerICare live chat outside of Wordpress? = 
 
 Yes. You can simply add the code into another page. 
+
+= Does it support canned responses? =
+
+Yes. We recently added a feature called Quick Responses for fast answers. Use them by clicking # when chatting.
