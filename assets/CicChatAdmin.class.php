@@ -43,7 +43,7 @@ class CicChatAdmin
      */
     public function admin_menu()
     {
-    	add_menu_page('CustomerICare', 'CustomerICare', 'administrator', 'cic-admin-settings', array($this, 'admin_settings_page'), plugin_dir_url( __FILE__ ).'/img/favicon.png' );
+    	add_menu_page('CustomerICare_L', 'CustomerICare_L', 'administrator', 'cic-admin-settings', array($this, 'admin_settings_page'), plugin_dir_url( __FILE__ ).'/img/favicon.png' );
     }
 
     /**
