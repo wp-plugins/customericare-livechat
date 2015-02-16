@@ -90,3 +90,7 @@ Yes. You can simply add the code into another page.
 = Does it support canned responses? =
 
 Yes. We recently added a feature called Quick Responses for fast answers. Use them by clicking # when chatting.
+
+ == is there a paid version for power users? ==
+ 
+Yes. We have added paid features for demanding customers.
