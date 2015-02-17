@@ -44,6 +44,8 @@ OR
 * Fix for Wordpress 4.x in admin panel
 * Fix function "install plugin" when licence is empty
 
+= 1.0.2 =
+* Block button 'Save' in async function to prevent creating multiple licenses
 
 == Frequently Asked Questions ==
 

@@ -114,6 +114,8 @@ $(document).ready(function() {
 		e.preventDefault();
 		var that	= $(this);
 
+		$('#create-new-licence').attr('disabled', 'disabled');
+		
 		var licence = {
 			email:		$(this).find('input[name="cic-email"]').val(),
 			password:	$(this).find('input[name="cic-pass"]').val(),
@@ -146,6 +148,8 @@ $(document).ready(function() {
 				{
 					Cic.alert({text: data.msg, delay_time: 7000});
 				}
+				
+				$('#create-new-licence').attr('disabled', false);
 			}
 		});
 	});
