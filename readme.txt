@@ -47,6 +47,9 @@ OR
 = 1.0.2 =
 * Block button 'Save' in async function to prevent creating multiple licenses
 
+= 1.0.3 =
+* Changed success info
+
 == Frequently Asked Questions ==
 
 = How do I start? = 

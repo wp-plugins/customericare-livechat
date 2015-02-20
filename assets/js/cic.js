@@ -102,7 +102,7 @@ $(document).ready(function() {
 				{
 					$.post( "admin.php?page=cic-admin-settings", { 'cic-apikey': data.user.apikey, 'cic-api-email': data.user.email } )
 						.done(function( data ) {
-							Cic.alert({text: 'Plugin Customericare it\'s ready to go!', delay_time: 5000});
+							Cic.alert({text: 'Success! Check your website to see the chat box!', delay_time: 5000});
 					});
 				}
 			}
@@ -137,7 +137,7 @@ $(document).ready(function() {
 
 					$.post( "admin.php?page=cic-admin-settings", { 'cic-apikey': data.apikey, 'cic-api-email': licence.email  } )
 						.done(function( data2 ) {
-							Cic.alert({text: 'Plugin Customericare it\'s ready to go!', delay_time: 5000});
+							Cic.alert({text: 'Success! Check your website to see the chat box!', delay_time: 5000});
 							Cic.add_licence_fields(licence.email, data.apikey);
 							Cic.clear_licence_fields();
 							Cic.hide_licence_fields();
