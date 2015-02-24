@@ -96,6 +96,9 @@ Yes. You can simply add the code into another page.
 
 Yes. We recently added a feature called Quick Responses for fast answers. Use them by clicking # when chatting.
 
- == is there a paid version for power users? ==
+
+== is there a paid version for power users? ==
  
 Yes. We have added paid features for demanding customers.
+
+Here's a free ebook to teach you how to chat with customers! http://customericare.com/download-polite-done-right/
