@@ -96,6 +96,9 @@ Yes. You can simply add the code into another page.
 
 Yes. We recently added a feature called Quick Responses for fast answers. Use them by clicking # when chatting.
 
+= Is there a one time payment option? =
+
+No, however we're considering this model. Let us know please if this is something for you!
 
 == is there a paid version for power users? ==
  
