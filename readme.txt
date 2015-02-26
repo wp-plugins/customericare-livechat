@@ -100,6 +100,17 @@ Yes. We recently added a feature called Quick Responses for fast answers. Use th
 
 No, however we're considering this model. Let us know please if this is something for you!
 
+= Can I translate the chat box? =
+
+Yes! We are rolling out new languages. Currently available include:
+
+German
+English
+Polish
+Spanish
+Russian
+French
+
 == is there a paid version for power users? ==
  
 Yes. We have added paid features for demanding customers.
