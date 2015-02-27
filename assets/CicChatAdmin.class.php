@@ -47,6 +47,25 @@ class CicChatAdmin
 		wp_enqueue_style('customericare', plugin_dir_url( __FILE__ ).'/css/cic.css', false, $this->plugin_version());
     }
 
+	public function build_query()
+	{
+		$data = array();
+		$p = '';
+		$t = get_option('cic-token');
+		if(!empty($t))
+		{
+			$data = array(
+				'email' => get_option('cic-api-email'),
+				'token' => get_option('cic-token')
+			);
+			$p = 'login/token/?';
+		}
+		
+		$q = http_build_query($data, '', '&amp;');
+		
+		return 'https://app.customericare.com/'.$p.$q;
+	}
+	
     /**
      * make menu
      */
@@ -62,7 +81,7 @@ class CicChatAdmin
     {
     	require_once ('templates/CicSettingsPage.class.php');
     	$cicSettingsPageModel = new CicSettingsPage();
-    	$cicSettingsPageModel->render();
+    	$cicSettingsPageModel->render( $this->build_query() );
     }
 
     /**
