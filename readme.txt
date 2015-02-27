@@ -50,6 +50,9 @@ OR
 = 1.0.3 =
 * Changed success info
 
+= 1.0.4 =
+* Sign In - automatic login
+
 == Frequently Asked Questions ==
 
 = How do I start? = 
@@ -104,12 +107,12 @@ No, however we're considering this model. Let us know please if this is somethin
 
 Yes! We are rolling out new languages. Currently available include:
 
-German
-English
-Polish
-Spanish
-Russian
-French
+- German
+- English
+- Polish
+- Spanish
+- Russian
+- French
 
 == is there a paid version for power users? ==
  

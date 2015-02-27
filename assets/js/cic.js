@@ -61,6 +61,24 @@ var Cic = {
 	{
 		$('#cic-add-plugin-form').hide();
 		$('#new-plugin-title').removeClass('expand_form');
+	},
+	
+	build_query: function(email, token)
+	{
+	
+		var data = {};
+		var p = '';
+	
+		if(typeof token != 'undefined' && token != null)
+		{
+			data.email = email;
+			data.token = token;
+			p = '/login/token/?';
+		}
+		
+		var q = decodeURIComponent( $.param( data ) );
+
+		return this.server_url+p+q;
 	}
 };
 
@@ -100,9 +118,17 @@ $(document).ready(function() {
 
 				if(data.res == 1)
 				{
-					$.post( "admin.php?page=cic-admin-settings", { 'cic-apikey': data.user.apikey, 'cic-api-email': data.user.email } )
+					if(typeof data.user.token == 'undefined')
+						data.user.token = null;
+			
+					var _data = data;
+					$.post( "admin.php?page=cic-admin-settings", { 'cic-apikey': data.user.apikey, 'cic-api-email': data.user.email, 'cic-token' : data.user.token } )
 						.done(function( data ) {
 							Cic.alert({text: 'Success! Check your website to see the chat box!', delay_time: 5000});
+							
+		
+
+							$('#sign-in').attr( 'href', Cic.build_query(_data.user.email, _data.user.token) );
 					});
 				}
 			}
@@ -135,13 +161,14 @@ $(document).ready(function() {
 				if(data.res == '1')
 				{
 
-					$.post( "admin.php?page=cic-admin-settings", { 'cic-apikey': data.apikey, 'cic-api-email': licence.email  } )
+					$.post( "admin.php?page=cic-admin-settings", { 'cic-apikey': data.apikey, 'cic-api-email': licence.email, 'cic-token' : data.token  } )
 						.done(function( data2 ) {
 							Cic.alert({text: 'Success! Check your website to see the chat box!', delay_time: 5000});
 							Cic.add_licence_fields(licence.email, data.apikey);
 							Cic.clear_licence_fields();
 							Cic.hide_licence_fields();
 							Cic.show_plugin_fields();
+							$('#sign-in').attr( 'href', Cic.build_query(licence.email, data.token) );
 					});
 				}
 				else

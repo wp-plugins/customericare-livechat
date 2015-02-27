@@ -2,7 +2,26 @@
 
 class CicSettingsPage
 {
-
+/*
+	private function build_query()
+	{
+		$data = array();
+		$p = '';
+		
+		if(!empty(get_option('cic-token')))
+		{
+			$data = array(
+				'email' => get_option('cic-api-email'),
+				'token' => get_option('cic-token')
+			);
+			$p = 'login/token/?';
+		}
+		
+		$q = http_build_query($data, '', '&amp;');
+		
+		return 'https://app.customericare.com/'.$p.$q;
+	}
+*/
     public function render()
     {
     ?>
@@ -40,7 +59,7 @@ class CicSettingsPage
             </div>
 
             <div>
-                <a class="button-primary" target="_blank" href="https://app.customericare.com/">Sign In</a>
+                <a id="sign-in" class="button-primary" target="_blank" href="https://app.customericare.com/">Sign In</a>
             </div>
         </section>
     <?php
