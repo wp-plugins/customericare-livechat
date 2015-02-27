@@ -52,6 +52,7 @@ class CicChatAdmin
 		$data = array();
 		$p = '';
 		$t = get_option('cic-token');
+		
 		if(!empty($t))
 		{
 			$data = array(
