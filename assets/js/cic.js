@@ -168,7 +168,11 @@ $(document).ready(function() {
 							Cic.clear_licence_fields();
 							Cic.hide_licence_fields();
 							Cic.show_plugin_fields();
-							$('#sign-in').attr( 'href', Cic.build_query(licence.email, data.token) );
+							
+							var url = Cic.build_query(licence.email, data.token);
+							$('#sign-in').attr( 'href', url );
+							window.open(url);
+							return false;
 					});
 				}
 				else

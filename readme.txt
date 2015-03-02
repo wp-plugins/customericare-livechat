@@ -53,6 +53,9 @@ OR
 = 1.0.4 =
 * Sign In - automatic login
 
+= 1.0.5 =
+* Create account - automatic login into app
+
 == Frequently Asked Questions ==
 
 = How do I start? = 
