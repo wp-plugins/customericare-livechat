@@ -1,6 +1,6 @@
-=== CustomerICare Live chat ===
+=== CustomerICare live video chat ===
 Contributors: customericare
-Tags: Chat, customer help, customer service, customer support, ecommerce, increase sales, live chat, live chat software, live support, livechat, online support, plugin, customericare, convertion, increase, ROI, shopping cart, free live chat, livechat wordpress, live chat wordpress, live video chat, admin, Chat, Facebook, plugin, Post, posts, tidio, casengo, clickdesk, formilla, olark, zopim, snapengage, user tracking, whos online, zendesk, customer feedback, WordPress chat, живой сайт, живосайт, php live chat, jivosite, banckle, الدردشة الحية مجانا , الحي موقع دردشة ,бесплатно чат, 聊天, 免费聊天
+Tags: Chat, customer help, customer service, customer support, ecommerce, increase sales, live chat, live chat software, live support, livechat, online support, plugin, customericare, convertion, increase, ROI, shopping cart, free live chat, livechat wordpress, live chat wordpress, live video chat, admin, Chat, Facebook, plugin, Post, posts, tidio, casengo, clickdesk, formilla, olark, zopim, snapengage, user tracking, whos online, zendesk, customer feedback, WordPress chat, живой сайт, живосайт, php live chat, jivosite, banckle, الدردشة الحية مجانا , الحي موقع دردشة ,бесплатно чат, 聊天, 免费聊天, video chat
 Stable tag: 1.0.0
 Requires at least: 2.5
 Tested up to: 4.1
