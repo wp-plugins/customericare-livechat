@@ -122,3 +122,5 @@ Yes! We are rolling out new languages. Currently available include:
 Yes. We have added paid features for demanding customers.
 
 Here's a free ebook to teach you how to chat with customers! http://customericare.com/download-polite-done-right/
+
+We will soon start a great deal dedicated for Wordpress, stay tuned!
