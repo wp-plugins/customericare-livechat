@@ -117,6 +117,10 @@ Yes! We are rolling out new languages. Currently available include:
 - Russian
 - French
 
+= What is video chat? =
+
+It allows you and your customer to chat like on Skype, only using the browser without any software.
+
 == is there a paid version for power users? ==
  
 Yes. We have added paid features for demanding customers.
