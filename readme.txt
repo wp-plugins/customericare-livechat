@@ -30,10 +30,10 @@ OR
 4. Follow the instructions.
 == Screenshots ==
 
-1. Chat application
-2. Chat plugin
-3. Plugin view
-4. Logo
+1. Live Chat Window on your website
+2. Video Live Chat
+3. See what customers are doing on your website
+4. Chat with people from around the world
 
 == Changelog ==
 
