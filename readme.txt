@@ -121,6 +121,10 @@ Yes! We are rolling out new languages. Currently available include:
 
 It allows you and your customer to chat like on Skype, only using the browser without any software.
 
+= Can I see what my visitors are typing? =
+
+Yes you can. We added a feature called Sneak Peek which displays what your visitors are typing before they send it. It's available in the updated version!
+
 == is there a paid version for power users? ==
  
 Yes. We have added paid features for demanding customers.
