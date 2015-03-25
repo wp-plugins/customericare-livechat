@@ -73,6 +73,7 @@ var Cic = {
 		{
 			data.email = email;
 			data.token = token;
+			data.paylane = 'one';
 			p = '/login/token/?';
 		}
 		
@@ -126,9 +127,12 @@ $(document).ready(function() {
 						.done(function( data ) {
 							Cic.alert({text: 'Success! Check your website to see the chat box!', delay_time: 5000});
 							
-		
+							var url = Cic.build_query(_data.user.email, _data.user.token);
+							$('#sign-in').attr( 'href', url.replace('&paylane=one', '') );
 
-							$('#sign-in').attr( 'href', Cic.build_query(_data.user.email, _data.user.token) );
+							$('#sign-in-one-payment').attr( 'href', url);
+							$('#sign-in-one-payment').show();
+							$('#info-sale').hide();
 					});
 				}
 			}
@@ -170,8 +174,12 @@ $(document).ready(function() {
 							Cic.show_plugin_fields();
 							
 							var url = Cic.build_query(licence.email, data.token);
-							$('#sign-in').attr( 'href', url );
+							$('#sign-in').attr( 'href', url.replace('&paylane=one', '') );
 							window.open(url);
+							
+							$('#sign-in-one-payment').attr( 'href', url);
+							$('#sign-in-one-payment').show();
+							$('#info-sale').hide();
 							return false;
 					});
 				}

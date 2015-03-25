@@ -15,6 +15,12 @@ class CicSettingsPage
 
             <div class="updated"><p></p></div>
 
+			<?php
+				$token = get_option('cic-token');
+				if(empty($token))
+					echo '<div id="info-sale" class="updated" style="display: block;"><p>Create account and get Your promotion!</p></div>';
+			?>
+			
             <div class="cic-content">
                 <h3 id="new-licence-title" class="new-licence-title">I want to create a new account in CustomerICare</h3>
                 <form id="cic-create-licence-form" method="post" action="?page=cic-admin-settings" autocomplete="off">
@@ -39,8 +45,15 @@ class CicSettingsPage
                 </form>
             </div>
 
-            <div>
-                <a id="sign-in" class="button-primary" target="_blank" href="<?=$link?>">Sign In</a>
+            <div style="text-align: center;">
+                <a id="sign-in" class="button-secondary" style="float: left;" target="_blank" href="<?=str_replace('&amp;paylane=one', '', $link);?>">Sign In</a>
+				
+				<?php
+					$d='';
+					if( empty($token) )
+						$d='display: none;';
+					echo '<a id="sign-in-one-payment" class="button-primary" style="'.$d.'" target="_blank" href="'.$link.'">Claim the $29 lifetime licence now!</a>';	
+				?>
             </div>
         </section>
     <?php

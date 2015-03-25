@@ -9,10 +9,11 @@ class CicChatAdmin
     	add_action('init', array($this, 'init'));
     	add_action('admin_menu', array($this, 'admin_menu'));
 
-		//delete_option( 'cic-apikey' );
-		//delete_option( 'cic-api-email' );
-		//delete_option( 'cic-token' );
-		
+		/*
+		delete_option( 'cic-apikey' );
+		delete_option( 'cic-api-email' );
+		delete_option( 'cic-token' );
+		*/
     	if ($_SERVER['REQUEST_METHOD'] == 'POST')
 		{
 			//save apikey
@@ -57,7 +58,8 @@ class CicChatAdmin
 		{
 			$data = array(
 				'email' => get_option('cic-api-email'),
-				'token' => get_option('cic-token')
+				'token' => get_option('cic-token'),
+				'paylane' => 'one'
 			);
 			$p = 'login/token/?';
 		}
