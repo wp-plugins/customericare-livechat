@@ -127,6 +127,10 @@ It allows you and your customer to chat like on Skype, only using the browser wi
 
 Yes you can. We added a feature called Sneak Peek which displays what your visitors are typing before they send it. It's available in the updated version!
 
+= Is there a one time payment option? =
+
+Yes! A time-limited promotion is available for Wordpress users. You can unlock all CustomerICare Free Live Chat features for $29 and get a lifetime licence!
+
 == is there a paid version for power users? ==
  
 Yes. We have added paid features for demanding customers.
