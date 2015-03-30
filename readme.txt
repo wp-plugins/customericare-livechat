@@ -131,6 +131,10 @@ Yes you can. We added a feature called Sneak Peek which displays what your visit
 
 Yes! A time-limited promotion is available for Wordpress users. You can unlock all CustomerICare Free Live Chat features for $29 and get a lifetime licence!
 
+= What kind of reporting is available? =
+
+Total chats, Availability, Performance, Queue, Invitations, all possible to filter by Operators and Departments. Free live chat reports allow you to always be sure your staff is doing their best to help customers.
+
 == is there a paid version for power users? ==
  
 Yes. We have added paid features for demanding customers.
