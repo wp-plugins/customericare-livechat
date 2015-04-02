@@ -36,6 +36,7 @@ OR
 2. Video Live Chat
 3. See what customers are doing on your website
 4. Chat with people from around the world
+5. Live Chat One time payment
 
 == Changelog ==
 
