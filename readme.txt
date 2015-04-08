@@ -59,6 +59,12 @@ OR
 = 1.0.5 =
 * Create account - automatic login into app
 
+= 1.1.0 =
+* One time payment
+
+= 1.1.1 =
+* Sign in - submenu
+
 == Frequently Asked Questions ==
 
 = How do I start? = 

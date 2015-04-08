@@ -46,7 +46,7 @@ class CicSettingsPage
             </div>
 
             <div style="text-align: center;">
-                <a id="sign-in" class="button-secondary" style="float: left;" target="_blank" href="<?=str_replace('&amp;paylane=one', '', $link);?>">Sign In</a>
+                <a id="sign-in" class="button-secondary" style="float: left;" target="_blank" href="<?=str_replace('&paylane=one', '', $link);?>">Sign In</a>
 				
 				<?php
 					$d='';

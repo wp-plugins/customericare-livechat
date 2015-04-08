@@ -46,6 +46,8 @@ class CicChatAdmin
     {
     	wp_enqueue_script('customericare', plugin_dir_url( __FILE__ ).'/js/cic.js', 'jquery', $this->plugin_version(), true);
 		wp_enqueue_style('customericare', plugin_dir_url( __FILE__ ).'/css/cic.css', false, $this->plugin_version());
+		
+
     }
 
 	public function build_query()
@@ -64,7 +66,7 @@ class CicChatAdmin
 			$p = 'login/token/?';
 		}
 		
-		$q = http_build_query($data, '', '&amp;');
+		$q = http_build_query($data, '', '&');
 		
 		return 'https://app.customericare.com/'.$p.$q;
 	}
@@ -75,6 +77,16 @@ class CicChatAdmin
     public function admin_menu()
     {
     	add_menu_page('CustomerICare', 'CustomerICare', 'administrator', 'cic-admin-settings', array($this, 'admin_settings_page'), plugin_dir_url( __FILE__ ).'/img/favicon.png' );
+		
+		add_submenu_page(
+			'cic-admin-settings',
+			'Sign in to Live chat',
+			'Sign in to Live chat',
+			'administrator',
+			'admin-redirect-to-app',
+			array($this, 'admin_redirect_to_app')
+		);
+
     }
 
     /**
@@ -82,10 +94,17 @@ class CicChatAdmin
      */
     public function admin_settings_page()
     {
+		$link = $this->build_query();
+    	
     	require_once ('templates/CicSettingsPage.class.php');
     	$cicSettingsPageModel = new CicSettingsPage();
-    	$cicSettingsPageModel->render( $this->build_query() );
+    	$cicSettingsPageModel->render( $link );
+		
+		echo "<script> jQuery('a[href=\"admin.php?page=admin-redirect-to-app\"]').attr('href', '".str_replace('&paylane=one', '', $link)."').attr('target', '_blank') </script>";
+		echo "<script> jQuery('a[href=\"admin.php?page=cic-admin-settings\"]').parent('.wp-first-item').remove();  </script>";
+		
     }
+
 
     /**
      * get plugin version
