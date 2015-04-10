@@ -65,6 +65,9 @@ OR
 = 1.1.1 =
 * Sign in - submenu
 
+= 1.2.0 =
+* Legal form feature, 3x faster app
+
 == Frequently Asked Questions ==
 
 = How do I start? = 
