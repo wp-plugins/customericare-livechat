@@ -13,10 +13,36 @@ The plugin adds a beautiful live chat box that allows text, audio and video, sen
 
 Take advantage of the one time payment! Go to your WP Admin, select the CustomerICare Plugin and click the Claim button, to unlock all features forever!
 
-Sign up now on http://www.customericare.com/signup
-Need more information? http://www.customericare.com/livechat
-
 [youtube https://www.youtube.com/watch?v=xNxQAWJy2-w]
+
+Features
+
+
+   * One-click installation. Can’t be easier.
+   * You can see people on your site
+   * You can contact had-picked people on your website
+   * Paint it with any color you want
+   * Chat in any language you know - it will even work in Chinese!
+   * Positionable design - put the chat box left or right
+   * Grabbing messages from customers who want to chat when you’re not available
+
+How does it work?After you install the plugin, click on the CustomerICare icon in your Wordpress Plugin list. It will show „Live Chat”. By clicking on it you will sign into the chat and see people online!
+
+
+Video
+Supported languages
+
+   * English
+   * Polish
+   * Spanish 
+   * German
+   * French
+   * Russian
+   * Hebrew
+
+If you want another language please contact us on https://customericare.com! 
+
+CustomerICare is free, month to month, or, just for you awesome Wordpress people, available in a one-time payment which unlocks all features. It’s only $29!
 
 == Installation ==
 1. Go to your /wp-admin
@@ -144,6 +170,10 @@ Yes! A time-limited promotion is available for Wordpress users. You can unlock a
 = What kind of reporting is available? =
 
 Total chats, Availability, Performance, Queue, Invitations, all possible to filter by Operators and Departments. Free live chat reports allow you to always be sure your staff is doing their best to help customers.
+
+= Is it TCPA compliant live chat? =
+
+Yes. Plus you can add a legal form in pre-chat survey configuration.
 
 == is there a paid version for power users? ==
  
