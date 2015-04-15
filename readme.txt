@@ -26,10 +26,11 @@ Features
    * Positionable design - put the chat box left or right
    * Grabbing messages from customers who want to chat when you’re not available
 
-How does it work?After you install the plugin, click on the CustomerICare icon in your Wordpress Plugin list. It will show „Live Chat”. By clicking on it you will sign into the chat and see people online!
+How does it work?
+
+After you install the plugin, click on the CustomerICare icon in your Wordpress Plugin list. It will show „Live Chat”. By clicking on it you will sign into the chat and see people online!
 
 
-Video
 Supported languages
 
    * English
