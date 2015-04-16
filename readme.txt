@@ -46,17 +46,15 @@ If you want another language please contact us on https://customericare.com!
 CustomerICare is free, month to month, or, just for you awesome Wordpress people, available in a one-time payment which unlocks all features. It’s only $29!
 
 == Installation ==
-1. Go to your /wp-admin
-2. Click Plugins, Add New
-3. Search for CustomerICare
-4. Click Install now
+Simple instructions, instant Live Chat!
 
-OR
-
-1. Upload customericare-livechat directory to WordPress plugins directory (/wp-content/plugins/)
-2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Click the 'Customericare' menu on the left.
-4. Follow the instructions.
+- Log on to your wp-admin
+- Click "Plugins", then "Add New"
+- Type in „CustomerICare” and click "Search Plugins"
+- Download and install the Plugin
+- Click on the "Activate Plugin" button
+- Scroll down to the ”CustomerICare” icon in the left hand menu
+- Click it. Set the licence and then click „Live Chat” to log on
 == Screenshots ==
 
 1. Live Chat Window on your website
