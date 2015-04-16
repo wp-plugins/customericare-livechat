@@ -175,7 +175,7 @@ $(document).ready(function() {
 							
 							var url = Cic.build_query(licence.email, data.token);
 							$('#sign-in').attr( 'href', url.replace('&paylane=one', '') );
-							window.open(url);
+							window.open(url.replace('&paylane=one', ''));
 							
 							$('#sign-in-one-payment').attr( 'href', url);
 							$('#sign-in-one-payment').show();

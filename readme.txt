@@ -93,6 +93,9 @@ Simple instructions, instant Live Chat!
 = 1.2.0 =
 * Legal form feature, 3x faster app
 
+= 1.2.1 =
+* redirect to monitoring after create new account
+
 == Frequently Asked Questions ==
 
 = How do I start? = 
