@@ -94,7 +94,10 @@ Simple instructions, instant Live Chat!
 * Legal form feature, 3x faster app
 
 = 1.2.1 =
-* redirect to monitoring after create new account
+* Redirect to monitoring after create new account
+
+= 1.2.2 =
+* Add one payment by PayPal
 
 == Frequently Asked Questions ==
 

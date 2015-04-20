@@ -131,7 +131,7 @@ $(document).ready(function() {
 							$('#sign-in').attr( 'href', url.replace('&paylane=one', '') );
 
 							$('#sign-in-one-payment').attr( 'href', url);
-							$('#sign-in-one-payment').show();
+							$('#sign-in-one-payment-wrap').css({'display': 'inline-block'});
 							$('#info-sale').hide();
 					});
 				}
@@ -178,7 +178,7 @@ $(document).ready(function() {
 							window.open(url.replace('&paylane=one', ''));
 							
 							$('#sign-in-one-payment').attr( 'href', url);
-							$('#sign-in-one-payment').show();
+							$('#sign-in-one-payment-wrap').css({'display': 'inline-block'});
 							$('#info-sale').hide();
 							return false;
 					});
