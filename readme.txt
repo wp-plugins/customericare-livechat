@@ -180,6 +180,10 @@ Total chats, Availability, Performance, Queue, Invitations, all possible to filt
 
 Yes. Plus you can add a legal form in pre-chat survey configuration.
 
+= Do you accept PayPal? =
+
+Yes we do, however only for the $29 life-time licence
+
 == is there a paid version for power users? ==
  
 Yes. We have added paid features for demanding customers.
