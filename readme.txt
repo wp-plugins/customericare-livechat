@@ -184,6 +184,10 @@ Yes. Plus you can add a legal form in pre-chat survey configuration.
 
 Yes we do, however only for the $29 life-time licence
 
+= Can you open the chat with a button? =
+
+Yes. We have two views - classic, with a button, and modern, with an embedded chat box
+
 == is there a paid version for power users? ==
  
 Yes. We have added paid features for demanding customers.
