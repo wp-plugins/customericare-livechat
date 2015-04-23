@@ -188,6 +188,10 @@ Yes we do, however only for the $29 life-time licence
 
 Yes. We have two views - classic, with a button, and modern, with an embedded chat box
 
+= What is the limit of operators? =
+
+There is no limit to the number of operators you can add to CustomerICare
+
 == is there a paid version for power users? ==
  
 Yes. We have added paid features for demanding customers.
