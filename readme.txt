@@ -192,6 +192,11 @@ Yes. We have two views - classic, with a button, and modern, with an embedded ch
 
 There is no limit to the number of operators you can add to CustomerICare
 
+= How will I receive messages from my customers? =
+
+You can simply start your computer, log on to our app in your browser, and 
+mind your own business. The app will notify you when chats arrive.
+
 == is there a paid version for power users? ==
  
 Yes. We have added paid features for demanding customers.
