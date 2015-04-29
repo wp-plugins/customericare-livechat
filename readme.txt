@@ -201,6 +201,10 @@ mind your own business. The app will notify you when chats arrive.
 
 No. The service is entirely hosted on our cloud infrastructure.
 
+= How stable is CustomerICare when it comes to uptime? =
+
+We use load balancing to ensure that the software is always fast and reliable.
+
 == is there a paid version for power users? ==
  
 Yes. We have added paid features for demanding customers.
