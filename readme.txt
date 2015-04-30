@@ -205,6 +205,10 @@ No. The service is entirely hosted on our cloud infrastructure.
 
 We use load balancing to ensure that the software is always fast and reliable.
 
+= Are there ads? =
+
+No way! We hate ads! No ads in our Live Chat, period!
+
 == is there a paid version for power users? ==
  
 Yes. We have added paid features for demanding customers.
