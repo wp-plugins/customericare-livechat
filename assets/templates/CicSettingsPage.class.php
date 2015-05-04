@@ -63,10 +63,11 @@ class CicSettingsPage
 						<input type="image" src="https://www.paypalobjects.com/en_US/PL/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 						<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 					</form>
+					<p style="margin-top: 0; font-size: 11px;">* change of payment plan in 24 hours</p>
 					
 					<p><strong>Using Credit Card:</strong></p>
 					<a id="sign-in-one-payment" class="button-primary" target="_blank" href="<?=$link?>">Claim the $29 lifetime licence now!</a>
-					
+					<p style="margin-top: 3px; font-size: 11px;">* automatic change of payment plan</p>
 				</div>
 
 			<div>
