@@ -209,6 +209,10 @@ We use load balancing to ensure that the software is always fast and reliable.
 
 No way! We hate ads! No ads in our Live Chat, period!
 
+= Can I temporarily remove it from the website but keep my setup? =
+
+Yes you can. Of course by doing that you lose the chance to meet your customers. Don’t do it! :)
+
 == is there a paid version for power users? ==
  
 Yes. We have added paid features for demanding customers.
