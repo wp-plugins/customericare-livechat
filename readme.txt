@@ -213,6 +213,10 @@ No way! We hate ads! No ads in our Live Chat, period!
 
 Yes you can. Of course by doing that you lose the chance to meet your customers. Don’t do it! :)
 
+= Do I need any other software? =
+
+No. All you need is a computer with an internet connection.
+
 == is there a paid version for power users? ==
  
 Yes. We have added paid features for demanding customers.
