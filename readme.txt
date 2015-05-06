@@ -11,8 +11,6 @@ Tested up to: 4.1
 Livechat by CustomerICare. The Wordpress Widget is a free application to chat with visitors on your website.
 The plugin adds a beautiful live chat box that allows text, audio and video, sending files plus web analytics.
 
-Take advantage of the one time payment! Go to your WP Admin, select the CustomerICare Plugin and click the Claim button, to unlock all features forever!
-
 [youtube https://www.youtube.com/watch?v=xNxQAWJy2-w]
 
 Features
@@ -60,7 +58,6 @@ Simple instructions, instant Live Chat!
 2. Video Live Chat
 3. See what customers are doing on your website
 4. Chat with people from around the world
-5. Live Chat One time payment
 
 == Changelog ==
 
@@ -97,6 +94,9 @@ Simple instructions, instant Live Chat!
 
 = 1.2.2 =
 * Add one payment by PayPal
+
+= 1.2.3 =
+* End of promotion One time payment
 
 == Frequently Asked Questions ==
 
