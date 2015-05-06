@@ -43,7 +43,6 @@ Supported languages
 
 If you want another language please contact us on https://customericare.com! 
 
-CustomerICare is free, month to month, or, just for you awesome Wordpress people, available in a one-time payment which unlocks all features. It’s only $29!
 
 == Installation ==
 Simple instructions, instant Live Chat!
@@ -168,9 +167,6 @@ It allows you and your customer to chat like on Skype, only using the browser wi
 
 Yes you can. We added a feature called Sneak Peek which displays what your visitors are typing before they send it. It's available in the updated version!
 
-= Is there a one time payment option? =
-
-Yes! A time-limited promotion is available for Wordpress users. You can unlock all CustomerICare Free Live Chat features for $29 and get a lifetime licence!
 
 = What kind of reporting is available? =
 
@@ -179,10 +175,6 @@ Total chats, Availability, Performance, Queue, Invitations, all possible to filt
 = Is it TCPA compliant live chat? =
 
 Yes. Plus you can add a legal form in pre-chat survey configuration.
-
-= Do you accept PayPal? =
-
-Yes we do, however only for the $29 life-time licence
 
 = Can you open the chat with a button? =
 
@@ -216,6 +208,10 @@ Yes you can. Of course by doing that you lose the chance to meet your customers.
 = Do I need any other software? =
 
 No. All you need is a computer with an internet connection.
+
+= Can I get an extension if I’m not decided to buy yet? =
+
+Of course. Just comment on the support thread.
 
 == is there a paid version for power users? ==
  
