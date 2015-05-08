@@ -213,6 +213,10 @@ No. All you need is a computer with an internet connection.
 
 Of course. Just comment on the support thread.
 
+= Is CustomerICare a new company? =
+
+We started in 2012 so we know the business quite well.
+
 == is there a paid version for power users? ==
  
 Yes. We have added paid features for demanding customers.
