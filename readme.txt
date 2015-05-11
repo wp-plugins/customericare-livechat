@@ -217,6 +217,10 @@ Of course. Just comment on the support thread.
 
 We started in 2012 so we know the business quite well.
 
+= Which web browsers work best with this plugin? =
+
+Latest versions of IE, Safari, Firefox, Chrome, Opera and others! :)
+
 == is there a paid version for power users? ==
  
 Yes. We have added paid features for demanding customers.
