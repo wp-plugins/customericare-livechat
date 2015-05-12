@@ -221,6 +221,10 @@ We started in 2012 so we know the business quite well.
 
 Latest versions of IE, Safari, Firefox, Chrome, Opera and others! :)
 
+= Does it work on mobiles? =
+
+Yes. CustomerICare will display with no problem on mobile devices!
+
 == is there a paid version for power users? ==
  
 Yes. We have added paid features for demanding customers.
