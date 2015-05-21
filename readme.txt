@@ -104,10 +104,6 @@ Simple instructions, instant Live Chat!
 
 After you install the plugin and create an account you simply log on to app.customericare.com. Then you can monitor your website’s visitors and chat with them!
 
-= Is it free? =
-
-Yes it is. You can also use premium features if you’re a power user!
-
 = How many agents can I have? = 
 
 You can add as many agents as you want.
