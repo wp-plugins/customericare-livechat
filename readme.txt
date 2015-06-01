@@ -13,9 +13,8 @@ The plugin adds a beautiful live chat box that allows text, audio and video, sen
 
 [youtube https://www.youtube.com/watch?v=xNxQAWJy2-w]
 
-
-
 Features
+
 
    * One-click installation. Can’t be easier.
    * You can see people on your site
@@ -42,100 +41,6 @@ Supported languages
 
 If you want another language please contact us on https://customericare.com! 
 
-== Features Include: ==
-
-= Chat, audio and video conversations =
-
-Engage in chats on your website. Escalate to a phone call-esque experience or even video to help your customers.
-
-
-=  Visitor monitoring (with details of visitors) =
-
-See people browsing your website in real time. You can immediately spot which pages attract the most people.
-
-=  Behavioral targeting of prospects =
-
-Our chat can automatically find people who need help and invite them into a covnersation with you.
-
-= Automatic and manual chat invitations =
-
-With the help of chat invitations you’re able to immediately start chats with people on your websites.
-
-= Statistics =
-
-Data is the centerpiece of operations. With our solution you will always see the results.
-
-= Typing sneak peek =
-
-It’s like predicting the future. You actually get to see what your customers type before they send it. This means you can write your reponse faster and more accurately.
-
-= Consultant rating =
-
-Customers get to rate their experience during chats. This helps in finding the best conversations.
-
-= Archive of conversations =
-
-Of course we store every chat and contact, so you can look them up at any time.
-
-= E-mailing of conversations =
-
-If your customers want to get a transcript of their chat you can easily send it to them.
-
-= Integration with CMS systems and Zendesk =
-
-Integrating is a breeze. There is really no need for coding.
-
-= Sending files =
-
-Visitors can send files and documents to chat operators to keep eveyrhing in one place.
-
-= Multiple chats simultaneously =
-
-Operators can handle any number of chats at a time. This definitely beats a phone line!
-
-= Conversation transfers =
-
-When a chat is handed off to another representative the entire conversation is preserved so the visitor needn’t repeat himself.
-
-= Away mode for operators =
-
-Taking a break isn’t a hassle. Operators just change their status and get removed from the chat queue. When they get back they just turn it back on.
-
-= Goals for ecommerce =
-
-You can measure how many sales you had thanks to live chat. Automatically.
-
-= Customization (colors, fields) =
-
-Make the chat window stand out. Apply your branding and colors to make it fit your website
-
-= 9 Languages =
-
-The chat allows to change the language it’s being displayed in.
-
-= After hours messages =
-
-The chat keeps working for you while your operators are away. It will ask people to leave their contact and message, to which you can get back the next day!
-
-= Few button types for chat initiation =
-
-If you don’t like the glued-on-top type of live chat you can always go for the vintage button and pop-up.
-
-= Departments =
-
-Sales, support, or maybe IT? No problem. Departments allow you to set up separate chat queues.
-
-= Admin and consultant levels of account =
-
-For security reasons you can set up account privileges for Admins and Consultants. This way Admins get to be responsible for the setup and Consultants for chatting.
-
-= SSL Encryption =
-
-SSL means your conversations won’t spill all over the internet. It’s secure with us.
-
-= For customers with special requirements: server sided Enterprise version.  =
-
-By the way - we have a heavy, powerful server-side bundle available. Anybody requiring enhaned security and on-premise data storage can benefit from it.
 
 == Installation ==
 Simple instructions, instant Live Chat!
@@ -315,6 +220,101 @@ Latest versions of IE, Safari, Firefox, Chrome, Opera and others! :)
 = Does it work on mobiles? =
 
 Yes. CustomerICare will display with no problem on mobile devices!
+
+== Features Include: ==
+
+== Chat, audio and video conversations ==
+
+Engage in chats on your website. Escalate to a phone call-esque experience or even video to help your customers.
+
+
+==  Visitor monitoring (with details of visitors) ==
+
+See people browsing your website in real time. You can immediately spot which pages attract the most people.
+
+==  Behavioral targeting of prospects ==
+
+Our chat can automatically find people who need help and invite them into a covnersation with you.
+
+==  Automatic and manual chat invitations ==
+
+With the help of chat invitations you’re able to immediately start chats with people on your websites.
+
+==  Statistics ==
+
+Data is the centerpiece of operations. With our solution you will always see the results.
+
+==  Typing sneak peek ==
+
+It’s like predicting the future. You actually get to see what your customers type before they send it. This means you can write your reponse faster and more accurately.
+
+==  Consultant rating ==
+
+Customers get to rate their experience during chats. This helps in finding the best conversations.
+
+==  Archive of conversations ==
+
+Of course we store every chat and contact, so you can look them up at any time.
+
+==  E-mailing of conversations ==
+
+If your customers want to get a transcript of their chat you can easily send it to them.
+
+==  Integration with CMS systems and Zendesk ==
+
+Integrating is a breeze. There is really no need for coding.
+
+==  Sending files ==
+
+Visitors can send files and documents to chat operators to keep eveyrhing in one place.
+
+==  Multiple chats simultaneously ==
+
+Operators can handle any number of chats at a time. This definitely beats a phone line!
+
+==  Conversation transfers ==
+
+When a chat is handed off to another representative the entire conversation is preserved so the visitor needn’t repeat himself.
+
+==  Away mode for operators ==
+
+Taking a break isn’t a hassle. Operators just change their status and get removed from the chat queue. When they get back they just turn it back on.
+
+==  Goals for ecommerce ==
+
+You can measure how many sales you had thanks to live chat. Automatically.
+
+==  Customization (colors, fields) ==
+
+Make the chat window stand out. Apply your branding and colors to make it fit your website
+
+==  9 Languages ==
+
+The chat allows to change the language it’s being displayed in.
+
+==  After hours messages ==
+
+The chat keeps working for you while your operators are away. It will ask people to leave their contact and message, to which you can get back the next day!
+
+==  Few button types for chat initiation ==
+
+If you don’t like the glued-on-top type of live chat you can always go for the vintage button and pop-up.
+
+==  Departments ==
+
+Sales, support, or maybe IT? No problem. Departments allow you to set up separate chat queues.
+
+==  Admin and consultant levels of account ==
+
+For security reasons you can set up account privileges for Admins and Consultants. This way Admins get to be responsible for the setup and Consultants for chatting.
+
+==  SSL Encryption ==
+
+SSL means your conversations won’t spill all over the internet. It’s secure with us.
+
+== For customers with special requirements: server sided Enterprise version.  ==
+
+By the way - we have a heavy, powerful server-side bundle available. Anybody requiring enhaned security and on-premise data storage can benefit from it.
 
 == is there a paid version for power users? ==
  
