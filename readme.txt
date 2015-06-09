@@ -124,10 +124,6 @@ Yes! Just install the plugin on both of them and use the same account. It will a
 
 You can do that. It’s a simple upload in the CustomerICare app.
 
-= Does customericare live chat keep chat history? = 
-
-Yes, chat history is kept
-
 = What happens when I’m not online? = 
 
 The chat box turns into a leave a message form where visitors can leave their e-mail and question.
