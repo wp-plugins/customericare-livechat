@@ -201,10 +201,6 @@ Yes you can. Of course by doing that you lose the chance to meet your customers.
 
 No. All you need is a computer with an internet connection.
 
-= Can I get an extension if I’m not decided to buy yet? =
-
-Of course. Just comment on the support thread.
-
 = Is CustomerICare a new company? =
 
 We started in 2012 so we know the business quite well.
