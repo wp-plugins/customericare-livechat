@@ -181,10 +181,6 @@ There is no limit to the number of operators you can add to CustomerICare
 You can simply start your computer, log on to our app in your browser, and 
 mind your own business. The app will notify you when chats arrive.
 
-= Do I need a server? =
-
-No. The service is entirely hosted on our cloud infrastructure.
-
 = How stable is CustomerICare when it comes to uptime? =
 
 We use load balancing to ensure that the software is always fast and reliable.
