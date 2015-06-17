@@ -181,7 +181,7 @@ mind your own business. The app will notify you when chats arrive.
 
 We use load balancing to ensure that the software is always fast and reliable.
 
-= Are there ads? =
+= Are there any ads? =
 
 No way! We hate ads! No ads in our Live Chat, period!
 
