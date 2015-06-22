@@ -1,6 +1,6 @@
 === CustomerICare live chat ===
 Contributors: customericare
-Tags: Chat software for business, customer help, customer service, customer support, ecommerce, increase sales, live chat, live chat software, live support, livechat, online support, plugin, customericare, convertion, increase, ROI, shopping cart, free live chat, livechat wordpress, live chat wordpress, live video chat, admin, Chat, Facebook, plugin, Post, posts, tidio, casengo, clickdesk, formilla, olark, zopim, snapengage, user tracking, whos online, zendesk, customer feedback, WordPress chat, живой сайт, живосайт, php live chat, jivosite, banckle, الدردشة الحية مجانا , الحي موقع دردشة ,бесплатно чат, 聊天, 免费聊天, video chat, chat plugin
+Tags: Chat software for business, customer help, customer service, customer support, ecommerce, increase sales, live chat, live chat software, live support, livechat, online support, plugin, customericare, convertion, increase, ROI, shopping cart, live chat, livechat wordpress, live chat wordpress, live video chat, admin, Chat, Facebook, plugin, Post, posts, tidio, casengo, clickdesk, formilla, olark, zopim, snapengage, user tracking, whos online, zendesk, customer feedback, WordPress chat, живой сайт, живосайт, php live chat, jivosite, banckle, الدردشة الحية مجانا , الحي موقع دردشة ,бесплатно чат, 聊天, 免费聊天, video chat, chat plugin
 Stable tag: 1.0.0
 Requires at least: 2.5
 Tested up to: 4.2
@@ -158,7 +158,7 @@ Yes you can. We added a feature called Sneak Peek which displays what your visit
 
 = What kind of reporting is available? =
 
-Total chats, Availability, Performance, Queue, Invitations, all possible to filter by Operators and Departments. Free live chat reports allow you to always be sure your staff is doing their best to help customers.
+Total chats, Availability, Performance, Queue, Invitations, all possible to filter by Operators and Departments. Live chat reports allow you to always be sure your staff is doing their best to help customers.
 
 = Is it TCPA compliant live chat? =
 
