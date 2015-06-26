@@ -41,7 +41,7 @@ Supported languages
    * Russian
    * Hebrew
 
-If you want another language please contact us on https://customericare.com! 
+If you want another language for the chat window please contact us on https://customericare.com! 
 
 
 == Installation ==
