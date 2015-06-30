@@ -8,8 +8,8 @@ Tested up to: 4.2
 
 
 == Description ==
-Livechat by CustomerICare. The Wordpress Widget is a powerful application to chat with visitors on your website.
-The plugin adds a beautiful live chat box that allows text, audio and video, sending files plus web analytics.
+Livechat by CustomerICare. The Wordpress Widget is a light application to chat with visitors on your website.
+The plugin adds a beautiful live chat box that allows text, audio and video, sending files plus web analytics so you always know who’s online! 
 
 [youtube https://www.youtube.com/watch?v=xNxQAWJy2-w]
 
