@@ -53,7 +53,7 @@ Simple instructions, instant Live Chat!
 - Download and install the Plugin
 - Click on the "Activate Plugin" button
 - Scroll down to the ”CustomerICare” icon in the left hand menu
-- Click it. Set the licence and then click „Live Chat” to log on
+- Set the licence and then click „Live Chat” to log on
 == Screenshots ==
 
 1. Live Chat Window on your website
