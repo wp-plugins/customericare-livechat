@@ -1,6 +1,6 @@
 === CustomerICare live chat ===
 Contributors: customericare
-Tags: Chat software for business, customer help, customer service, customer support, ecommerce, increase sales, live chat, live chat software, live support, livechat, online support, plugin, customericare, convertion, increase, ROI, shopping cart, live chat, livechat wordpress, live chat wordpress, live video chat, admin, Chat, Facebook, plugin, Post, posts, tidio, casengo, clickdesk, formilla, olark, zopim, snapengage, user tracking, whos online, zendesk, customer feedback, WordPress chat, живой сайт, живосайт, php live chat, jivosite, banckle, الدردشة الحية مجانا , الحي موقع دردشة ,бесплатно чат, 免费聊天, video chat, chat plugin, business widget
+Tags: Chat software for small business, customer help, customer service, customer support, ecommerce, increase sales, live chat, live chat software, live support, livechat, online support, plugin, customericare, convertion, increase, ROI, shopping cart, live chat, livechat wordpress, live chat wordpress, live video chat, admin, Chat, Facebook, plugin, Post, posts, tidio, casengo, clickdesk, formilla, olark, zopim, snapengage, user tracking, whos online, zendesk, customer feedback, WordPress chat, живой сайт, живосайт, php live chat, jivosite, banckle, الدردشة الحية مجانا , الحي موقع دردشة ,бесплатно чат, 免费聊天, video chat, chat plugin, business widget
 Stable tag: 1.0.0
 Requires at least: 2.5
 Tested up to: 4.2
@@ -8,7 +8,7 @@ Tested up to: 4.2
 
 
 == Description ==
-Livechat by CustomerICare. The Wordpress Widget is a light application to chat with visitors on your website.
+Livechat for small business by CustomerICare. The Wordpress Widget is a light application to chat with visitors on your website.
 The plugin adds a beautiful live chat box that allows text, audio and video, sending files plus web analytics so you always know who’s online! 
 
 [youtube https://www.youtube.com/watch?v=xNxQAWJy2-w]
