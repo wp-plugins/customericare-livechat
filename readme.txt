@@ -13,6 +13,10 @@ The plugin adds a beautiful live chat box that allows text, audio and video, sen
 
 [youtube https://www.youtube.com/watch?v=xNxQAWJy2-w]
 
+What’s included?
+
+The plugin is a 14-day long, fully featured trial. The regular price is $12 monthly for WordPress users. 
+
 Features
 
 
