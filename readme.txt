@@ -42,7 +42,8 @@ Once your free trial comes to an end, you will be able to subscribe for a monthl
 
 We have 1 simple plan of $10/month/seat with a 20% discount if you choose to be billed annually. 
 
-Check out our pricing page to find out more!
+Check out our [pricing page](https://customericare.com/live-chat-pricing/) to find out more!
+
 
 - Why pay when I can just find a free solution?
 
