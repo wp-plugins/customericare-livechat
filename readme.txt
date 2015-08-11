@@ -8,8 +8,9 @@ Tested up to: 4.2
 
 
 == Description ==
-Livechat for small business by CustomerICare. The Wordpress Widget is a cool application to chat with visitors on your website.
-The plugin adds a beautiful live chat box that allows text, audio and video, sending files plus web analytics so you always know who’s online! 
+CustomerIcare is an affordable live chat software built to help small businesses increase their online sales. 
+
+Our WordPress plugin lets you add the chat window to your website in few seconds without any coding knowledge! What the video below to see how it works.
 
 [youtube https://www.youtube.com/watch?v=xNxQAWJy2-w]
 
@@ -18,15 +19,38 @@ Features
 
    * One-click installation. Can’t be easier.
    * You can see people on your site
-   * You can contact had-picked people on your website
+   * You can contact hand-picked people on your website
    * Paint it with any color you want
    * Chat in any language you know - it will even work in Chinese!
    * Positionable design - put the chat box left or right
    * Grabbing messages from customers who want to chat when you’re not available
+   * Automatically send chat invitations to your most engaged visitors
+   * See what customers are typing before they hit send
+   * Never loose information thanks to our unlimited chat archives
 
 How does it work?
 
 After you install the plugin, click on the CustomerICare icon in your Wordpress Plugin list. It will show „Live Chat”. By clicking on it you will sign into the chat and see people online!
+
+Do I need to pay to use this plugin?
+
+You can give CustomerIcare a try for 14 days for free. We will never ask for your credit card information during this period and you can uninstall the plugin at any time.
+
+Once your free trial comes to an end, you will be able to subscribe for a monthly or yearly subscription to keep using the plugin. 
+
+- How much does it cost?
+
+We have 1 simple plan of $10/month/seat with a 20% discount if you choose to be billed annually. 
+
+Check out our pricing page to find out more!
+
+- Why pay when I can just find a free solution?
+
+Most free solutions have limited features and are focused on up-selling users on these features. We found that small businesses are often the ones who benefit the most from blocked features like proactive chat invitations or longer storage of chats in the archives. 
+
+We prefer offering full access to all existing and future features of our app for a reasonable price so you can benefit from them. 
+
+
 
 Please review us on Wordpress!
 
