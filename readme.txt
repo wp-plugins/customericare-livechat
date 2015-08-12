@@ -14,7 +14,7 @@ Our WordPress plugin lets you add the chat window to your website in few seconds
 
 [youtube https://www.youtube.com/watch?v=xNxQAWJy2-w]
 
-Features
+- Features
 
 
    * One-click installation. Can’t be easier.
@@ -28,11 +28,11 @@ Features
    * See what customers are typing before they hit send
    * Never loose information thanks to our unlimited chat archives
 
-How does it work?
+- How does it work?
 
 After you install the plugin, click on the CustomerICare icon in your Wordpress Plugin list. It will show „Live Chat”. By clicking on it you will sign into the chat and see people online!
 
-Do I need to pay to use this plugin?
+- Do I need to pay to use this plugin?
 
 You can give CustomerIcare a try for 14 days for free. We will never ask for your credit card information during this period and you can uninstall the plugin at any time.
 
@@ -51,12 +51,7 @@ Most free solutions have limited features and are focused on up-selling users on
 
 We prefer offering full access to all existing and future features of our app for a reasonable price so you can benefit from them. 
 
-
-
-Please review us on Wordpress!
-
-
-Supported languages
+- Supported languages
 
    * English
    * Polish
@@ -66,7 +61,9 @@ Supported languages
    * Russian
    * Hebrew
 
-If you want another language for the chat window please contact us on https://customericare.com! 
+If you want another language for the chat window please contact us on https://customericare.com!
+
+If you like the plugin, please [leave us a review](https://wordpress.org/support/view/plugin-reviews/customericare-livechat) on WordPress!
 
 
 == Installation ==
@@ -78,7 +75,7 @@ Simple instructions, instant Live Chat!
 - Download and install the Plugin
 - Click on the "Activate Plugin" button
 - Scroll down to the ”CustomerICare” icon in the left hand menu
-- Set the licence and then click „Live Chat” to log on
+- Set the licence and then click „Live Chat” to log in
 == Screenshots ==
 
 1. Live Chat Window on your website
@@ -132,15 +129,15 @@ Simple instructions, instant Live Chat!
 
 = How do I start? = 
 
-After you install the plugin and create an account you simply log on to app.customericare.com. Then you can monitor your website’s visitors and chat with them!
+After you install the plugin and create an account you simply log on to app.customericare.com. You can then monitor your website’s visitors and chat with them!
 
 = How many agents can I have? = 
 
-You can add as many agents as you want.
+You can add as many agents as you want. You will only pay for the « seats » or the number of agents that can log in at the same time.
 
 = Can I change the color of the chat box? = 
 
-Sure you can. Log on to the Settings in your app.customericare.com and choose colors that fit your wordpress website.
+Sure you can. Log on to the Settings in your app.customericare.com and choose colors that fit your WordPress website.
 
 = Do I have to use programming to install this live chat plugin? = 
 
@@ -156,7 +153,7 @@ You can do that. It’s a simple upload in the CustomerICare app.
 
 = What happens when I’m not online? = 
 
-The chat box turns into a leave a message form where visitors can leave their e-mail and question.
+The chat box turns into a leave a message form where visitors can leave their e-mail and questions.
 
 = Can I use CustomerICare live chat outside of Wordpress? = 
 
@@ -165,10 +162,6 @@ Yes. You can simply add the code into another page.
 = Does it support canned responses? =
 
 Yes. We recently added a feature called Quick Responses for fast answers. Use them by clicking # when chatting.
-
-= Is there a one time payment option? =
-
-No, however we're considering this model. Let us know please if this is something for you!
 
 = Can I translate the chat box? =
 
@@ -197,10 +190,6 @@ Yes. Plus you can add a legal form in pre-chat survey configuration.
 = Can you open the chat with a button? =
 
 Yes. We have two views - classic, with a button, and modern, with an embedded chat box
-
-= What is the limit of operators? =
-
-There is no limit to the number of operators you can add to CustomerICare
 
 = How will I receive messages from my customers? =
 
@@ -233,7 +222,7 @@ Latest versions of IE, Safari, Firefox, Chrome, Opera and others! :)
 
 = Does it work on mobiles? =
 
-Yes. CustomerICare will display with no problem on mobile devices!
+Yes. CustomerICare will display with no problem on mobile devices! We are also planning to launch iOS and Android apps very soon. Stay tuned!
 
 == Features Include: ==
 
@@ -241,14 +230,13 @@ Yes. CustomerICare will display with no problem on mobile devices!
 
 Engage in chats on your website. Escalate to a phone call-esque experience or even video to help your customers.
 
-
 ==  Visitor monitoring (with details of visitors) ==
 
 See people browsing your website in real time. You can immediately spot which pages attract the most people.
 
 ==  Behavioral targeting of prospects ==
 
-Our chat can automatically find people who need help and invite them into a covnersation with you.
+Our chat can automatically find people who need help and invite them into a conversation with you.
 
 ==  Automatic and manual chat invitations ==
 
@@ -260,7 +248,7 @@ Data is the centerpiece of operations. With our solution you will always see the
 
 ==  Typing sneak peek ==
 
-It’s like predicting the future. You actually get to see what your customers type before they send it. This means you can write your reponse faster and more accurately.
+It’s like predicting the future. You actually get to see what your customers type before they send it. This means you can write your response faster and more accurately.
 
 ==  Consultant rating ==
 
@@ -328,12 +316,4 @@ SSL means your conversations won’t spill all over the internet. It’s secure 
 
 == For customers with special requirements: server sided Enterprise version.  ==
 
-By the way - we have a heavy, powerful server-side bundle available. Anybody requiring enhaned security and on-premise data storage can benefit from it.
-
-== is there a paid version for power users? ==
- 
-Yes. We have added paid features for demanding customers.
-
-Here's a free ebook to teach you how to chat with customers! http://customericare.com/download-polite-done-right/
-
-We will soon start a great deal dedicated for Wordpress, stay tuned!
+By the way - we have a heavy, powerful server-side bundle available. Anybody requiring enhanced security and on-premise data storage can benefit from it.
