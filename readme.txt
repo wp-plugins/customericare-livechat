@@ -34,7 +34,7 @@ Our WordPress plugin lets you add the chat window to your website in few seconds
 
 After you install the plugin, click on the CustomerICare icon in your Wordpress Plugin list. It will show „Live Chat”. By clicking on it you will sign into the chat and see people online!
 
-Visit our [WordPress live chat plugin page] (https://customericare.com/live-chat-plugin-for-wordpress/) to learn more!
+Visit our [WordPress live chat plugin page](https://customericare.com/live-chat-plugin-for-wordpress/) to learn more!
 
 - Do I need to pay to use this plugin?
 
