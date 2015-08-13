@@ -10,12 +10,11 @@ Tested up to: 4.2
 == Description ==
 CustomerIcare is an affordable live chat software built to help small businesses increase their online sales. 
 
-Our WordPress plugin lets you add the chat window to your website in few seconds without any coding knowledge! What the video below to see how it works.
+Our WordPress plugin lets you add the chat window to your website in few seconds without any coding knowledge! Watch the video below to see how it works.
 
 [youtube https://www.youtube.com/watch?v=xNxQAWJy2-w]
 
 - Features
-
 
    * One-click installation. Can’t be easier.
    * You can see people on your site
@@ -27,10 +26,15 @@ Our WordPress plugin lets you add the chat window to your website in few seconds
    * Automatically send chat invitations to your most engaged visitors
    * See what customers are typing before they hit send
    * Never loose information thanks to our unlimited chat archives
+   * Export chats and users data to CSV files
+   * Track conversions and see how much live chat helps you sell
+
 
 - How does it work?
 
 After you install the plugin, click on the CustomerICare icon in your Wordpress Plugin list. It will show „Live Chat”. By clicking on it you will sign into the chat and see people online!
+
+Visit our [WordPress live chat plugin page] (https://customericare.com/live-chat-plugin-for-wordpress/) to learn more!
 
 - Do I need to pay to use this plugin?
 
@@ -133,7 +137,7 @@ After you install the plugin and create an account you simply log on to app.cust
 
 = How many agents can I have? = 
 
-You can add as many agents as you want. You will only pay for the « seats » or the number of agents that can log in at the same time.
+You can add as many agents as you want. You will only pay for the « seats » (the number of agents that can log in at the same time)
 
 = Can I change the color of the chat box? = 
 
@@ -199,10 +203,6 @@ mind your own business. The app will notify you when chats arrive.
 = How stable is CustomerICare when it comes to uptime? =
 
 We use load balancing to ensure that the software is always fast and reliable.
-
-= Are there any ads? =
-
-No way! We hate ads! No ads in our Live Chat, period!
 
 = Can I temporarily remove it from the website but keep my setup? =
 
