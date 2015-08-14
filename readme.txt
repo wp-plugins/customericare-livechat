@@ -1,6 +1,6 @@
 === CustomerICare live chat ===
 Contributors: customericare
-Tags: Chat software for small business, customer help, customer service, customer support, ecommerce, increase sales, live chat, live chat software, live support, livechat, online support, plugin, customericare, convertion, increase, ROI, shopping cart, live chat, livechat wordpress, live chat wordpress, live video chat, Chat, tidio, casengo, clickdesk, formilla, olark, zopim, snapengage, user tracking, whos online, zendesk, customer feedback, WordPress chat, живой сайт, живосайт, php live chat, jivosite, banckle, الدردشة الحية مجانا , الحي موقع دردشة ,бесплатно чат, 聊天, 免费聊天, video chat
+Tags: Chat software for small business, customer help, customer service, customer support, ecommerce, increase sales, live chat, live chat software, live support, livechat, online support, live chat plugin, customericare, convertion, increase, ROI, shopping cart, livechat wordpress, live chat wordpress, live video chat, Chat, tidio, casengo, clickdesk, formilla, olark, zopim, snapengage, user tracking, whos online, zendesk, customer feedback, WordPress chat, живой сайт, живосайт, php live chat, jivosite, banckle, الدردشة الحية مجانا , الحي موقع دردشة ,бесплатно чат, 聊天, 免费聊天, video chat
 Stable tag: 1.0.0
 Requires at least: 2.5
 Tested up to: 4.2
@@ -8,9 +8,11 @@ Tested up to: 4.2
 
 
 == Description ==
-CustomerIcare is an affordable live chat software built to help small businesses increase their online sales. 
+Live chat plugin built to help small businesses increase their online sales. CustomerIcare is the best live chat solution if you have low traffic and want to actively engage your website visitors. 
 
-Our WordPress plugin lets you add the chat window to your website in few seconds without any coding knowledge! Watch the video below to see how it works.
+Our WordPress live chat plugin lets you add the chat window to your website in few seconds without any coding knowledge! You will then be able to see who is browsing your website, where they come from, what page they are seeing and invite them to chat.
+
+Watch the video below to see how to install the plugin.
 
 [youtube https://www.youtube.com/watch?v=xNxQAWJy2-w]
 
@@ -53,7 +55,7 @@ Check out our [pricing page](https://customericare.com/live-chat-pricing/) to fi
 
 Most free solutions have limited features and are focused on up-selling users on these features. We found that small businesses are often the ones who benefit the most from blocked features like proactive chat invitations or longer storage of chats in the archives. 
 
-We prefer offering full access to all existing and future features of our app for a reasonable price so you can benefit from them. 
+We prefer to offer full access to all existing and future features of our app for a reasonable price so you can benefit from them and get the best ROI possible.
 
 - Supported languages
 
@@ -79,7 +81,7 @@ Simple instructions, instant Live Chat!
 - Download and install the Plugin
 - Click on the "Activate Plugin" button
 - Scroll down to the ”CustomerICare” icon in the left hand menu
-- Set the licence and then click „Live Chat” to log in
+- Set the license and then click „Live Chat” to log in
 == Screenshots ==
 
 1. Live Chat Window on your website
