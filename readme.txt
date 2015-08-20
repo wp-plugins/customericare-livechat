@@ -1,6 +1,6 @@
 === CustomerICare live chat ===
 Contributors: customericare
-Tags: Chat software for small business, customer help, customer service, customer support, ecommerce, increase sales, live chat, live chat software, live support, livechat, online support, live chat plugin, customericare, convertion, increase, ROI, shopping cart, livechat wordpress, live chat wordpress, live video chat, Chat, tidio, casengo, clickdesk, formilla, olark, zopim, snapengage, user tracking, whos online, zendesk, customer feedback, WordPress chat, живой сайт, живосайт, php live chat, jivosite, banckle, الدردشة الحية مجانا , الحي موقع دردشة ,бесплатно чат, 聊天, 免费聊天, video chat, wordpress chat plugin
+Tags: free live chat, free chat for wordpress, free wordpress chat plugin, Chat software for small business, customer help, customer service, customer support, ecommerce, increase sales, live chat, live chat software, live support, livechat, online support, live chat plugin, customericare, convertion, increase, ROI, shopping cart, livechat wordpress, live chat wordpress, live video chat, Chat, tidio, casengo, clickdesk, formilla, olark, zopim, snapengage, user tracking, whos online, zendesk, customer feedback, WordPress chat, живой сайт, живосайт, php live chat, jivosite, banckle, الدردشة الحية مجانا , الحي موقع دردشة ,бесплатно чат, 聊天, 免费聊天, video chat, wordpress chat plugin
 Stable tag: 1.0.0
 Requires at least: 2.5
 Tested up to: 4.2
@@ -8,7 +8,7 @@ Tested up to: 4.2
 
 
 == Description ==
-A live chat plugin **built to help small businesses** increase their online sales. CustomerIcare is the best live chat solution for small businesses looking to talk to website visitors in order to grow their online sales.
+A **free live chat plugin** built to help small businesses increase their online sales. CustomerIcare is the best live chat solution for small businesses looking to talk to website visitors in order to grow their online sales. And it’s free!
 
 Our WordPress live chat plugin lets you add the chat window to your website in few seconds without any coding knowledge! You will then be able to see who is browsing your website, where they come from, what page they are seeing and proactively invite them to chat.
 
@@ -36,24 +36,18 @@ Visit our [WordPress live chat plugin page](https://customericare.com/live-chat-
    * Track conversions and see how much live chat helps you sell
 
 
-**- Do I need to pay to use this plugin?**
+**- Is the free live chat plan free forever?**
 
-You can give CustomerIcare a try for 14 days for free. We will never ask for your credit card information during this period and you can uninstall the plugin at any time.
+Absolutely! We designed our free plan for small businesses who can’t afford a paid solution. You can update to our $10 / month plan anytime if you realize the free plan doesn’t meet your needs anymore.
 
-Once your free trial comes to an end, you will be able to subscribe for a monthly or yearly subscription to keep using the plugin. 
+**- What’s included in the free forever plan?**
 
-**- How much does it cost?**
-
-We have 1 simple plan of $10/month/seat with a 20% discount if you choose to be billed annually. 
-
-Check out our [pricing page](https://customericare.com/live-chat-pricing/) to find out more!
-
-
-**- Why pay when I can just find a free solution?**
-
-Most free solutions have limited features and are focused on up-selling users on these features. We found that small businesses are often the ones who benefit the most from blocked features like proactive chat invitations or longer storage of chats in the archives. 
-
-We prefer to offer full access to all existing and future features of our app for a reasonable price so you can benefit from them and get the best ROI possible.
+All features are included in the free plan with some basic limitations:
+   * 1 concurrent chat
+   * Default logo on the chat window
+   * Archive limits
+   * 1 active automatic message
+   * 1 operator
 
 **- Supported languages**
 
@@ -79,7 +73,7 @@ Simple instructions, instant Live Chat!
 - Download and install the Plugin
 - Click on the "Activate Plugin" button
 - Scroll down to the ”CustomerICare” icon in the left hand menu
-- Set the license and then click „Live Chat” to log in
+- Open a free CustomerIcare account and then click „Live Chat” to log in
 
 == Screenshots ==
 
@@ -132,6 +126,10 @@ Simple instructions, instant Live Chat!
 
 == Frequently Asked Questions ==
 
+= Is this plugin really free? = 
+
+Yes! We have a free live chat plan with some limitations and an all-inclusive prestige plan for $10/month/seat. You will get 7 day free on the Prestige plan when you signup and will be downgraded to the free plan afterwards. 
+
 = How do I start? = 
 
 After you install the plugin and create an account you simply log on to app.customericare.com. You can then monitor your website’s visitors and chat with them!
@@ -142,7 +140,8 @@ Our WordPress plugin is meant to help you with the installation of the chat wind
 
 = How many agents can I have? = 
 
-You can add as many agents as you want. You will only pay for the « seats » (the number of agents that can log in at the same time)
+Our free plan is limited to 1 agent only. 
+You can add as many agents as you want on the paid plan. You will only pay for the « seats » (the number of agents that can log in at the same time)
 
 = Can I change the color of the chat box? = 
 
@@ -183,6 +182,8 @@ Yes! We are rolling out new languages. Currently available include:
 - Russian
 - French
 
+NOTE: We limit the translation feature to paid customers only at the moment but will be rolling out a do-it-yourself translation platform for everyone in the near future.
+
 = Can I see what my visitors are typing? =
 
 Yes you can. We added a feature called Sneak Peek which displays what your visitors are typing before they send it. It's available in the updated version!
@@ -195,10 +196,6 @@ Total chats, Availability, Performance, Queue, Invitations, all possible to filt
 = Is it TCPA compliant live chat? =
 
 Yes. Plus you can add a legal form in pre-chat survey configuration.
-
-= Can you open the chat with a button? =
-
-Yes. We have two views - classic, with a button, and modern, with an embedded chat box
 
 = How will I receive messages from my customers? =
 
