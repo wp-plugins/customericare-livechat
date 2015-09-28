@@ -1,6 +1,6 @@
 === CustomerICare live chat ===
 Contributors: customericare
-Tags: free live chat, free chat for wordpress, free wordpress chat plugin, Chat software for small business, customer help, customer service, customer support, ecommerce, increase sales, live chat, live chat software, live support, livechat, online support, live chat plugin, customericare, convertion, increase, ROI, shopping cart, livechat wordpress, live chat wordpress, live video chat, Chat, tidio, casengo, clickdesk, formilla, olark, zopim, snapengage, user tracking, whos online, zendesk, customer feedback, WordPress chat, живой сайт
+Tags: free live chat, free chat for wordpress, free wordpress chat plugin, Chat software for small business, customer help, customer service, customer support, ecommerce, increase sales, live chat, live chat software, live support, livechat, online support, live chat plugin, customericare, convertion, increase, ROI, shopping cart, livechat wordpress, live chat wordpress, live video chat, Chat, tidio, casengo, clickdesk, formilla, olark, zopim, snapengage, user tracking, whos online, zendesk, customer feedback, WordPress chat
 Stable tag: 1.0.0
 Requires at least: 2.5
 Tested up to: 4.2
